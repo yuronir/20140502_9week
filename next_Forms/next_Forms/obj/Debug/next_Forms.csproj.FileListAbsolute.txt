@@ -1,0 +1,9 @@
+c:\users\mk\documents\visual studio 2013\Projects\next_Forms\next_Forms\bin\Debug\next_Forms.exe.config
+c:\users\mk\documents\visual studio 2013\Projects\next_Forms\next_Forms\bin\Debug\next_Forms.exe
+c:\users\mk\documents\visual studio 2013\Projects\next_Forms\next_Forms\bin\Debug\next_Forms.pdb
+c:\users\mk\documents\visual studio 2013\Projects\next_Forms\next_Forms\obj\Debug\next_Forms.csprojResolveAssemblyReference.cache
+c:\users\mk\documents\visual studio 2013\Projects\next_Forms\next_Forms\obj\Debug\next_Forms.Form1.resources
+c:\users\mk\documents\visual studio 2013\Projects\next_Forms\next_Forms\obj\Debug\next_Forms.Properties.Resources.resources
+c:\users\mk\documents\visual studio 2013\Projects\next_Forms\next_Forms\obj\Debug\next_Forms.csproj.GenerateResource.Cache
+c:\users\mk\documents\visual studio 2013\Projects\next_Forms\next_Forms\obj\Debug\next_Forms.exe
+c:\users\mk\documents\visual studio 2013\Projects\next_Forms\next_Forms\obj\Debug\next_Forms.pdb

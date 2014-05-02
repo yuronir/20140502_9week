@@ -1,0 +1,10 @@
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\bin\Debug\next_Form.exe.config
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\bin\Debug\next_Form.exe
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\bin\Debug\next_Form.pdb
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\bin\Debug\next_Form.xml
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\obj\Debug\next_Form.Resources.resources
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\obj\Debug\next_Form.vbproj.GenerateResource.Cache
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\obj\Debug\next_Form.exe
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\obj\Debug\next_Form.xml
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\obj\Debug\next_Form.pdb
+c:\users\mk\documents\visual studio 2013\Projects\next_Form\next_Form\obj\Debug\next_Form.Form1.resources

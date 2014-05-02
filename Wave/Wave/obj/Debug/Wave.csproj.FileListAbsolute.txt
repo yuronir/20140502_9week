@@ -1,0 +1,8 @@
+c:\users\mk\documents\visual studio 2013\Projects\Wave\Wave\bin\Debug\Wave.exe.config
+c:\users\mk\documents\visual studio 2013\Projects\Wave\Wave\bin\Debug\Wave.exe
+c:\users\mk\documents\visual studio 2013\Projects\Wave\Wave\bin\Debug\Wave.pdb
+c:\users\mk\documents\visual studio 2013\Projects\Wave\Wave\obj\Debug\Wave.Form1.resources
+c:\users\mk\documents\visual studio 2013\Projects\Wave\Wave\obj\Debug\Wave.Properties.Resources.resources
+c:\users\mk\documents\visual studio 2013\Projects\Wave\Wave\obj\Debug\Wave.csproj.GenerateResource.Cache
+c:\users\mk\documents\visual studio 2013\Projects\Wave\Wave\obj\Debug\Wave.exe
+c:\users\mk\documents\visual studio 2013\Projects\Wave\Wave\obj\Debug\Wave.pdb
